@@ -6,6 +6,7 @@ A collection of somatic variant callers. Awesomeness to be reviewed 🧐
 - [ ] [LoFreq version 2](https://csb5.github.io/lofreq/): Fast and sensitive variant calling from next-gen sequencing data
 - [ ] [SMuRF](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz018/5288515): portable and accurate ensemble prediction of somatic mutations
 - [ ] [OHVarfinDer](https://github.com/takumorizo/OHVarfinDerstars)
+- [ ] [PipeIT](https://jmd.amjpathol.org/article/S1525-1578(18)30338-6/fulltext): A Singularity Container for Molecular Diagnostic Somatic Variant Calling on the Ion Torrent Next-Generation Sequencing Platform
 
 
 # BONUS
