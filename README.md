@@ -8,6 +8,7 @@ A collection of somatic variant callers. Awesomeness to be reviewed 🧐
 - [ ] [OHVarfinDer](https://github.com/takumorizo/OHVarfinDerstars)
 - [ ] [PipeIT](https://jmd.amjpathol.org/article/S1525-1578(18)30338-6/fulltext): A Singularity Container for Molecular Diagnostic Somatic Variant Calling on the Ion Torrent Next-Generation Sequencing Platform
 - [ ] [NeoMutate](https://link.sprnger.com/article/10.1186/s12920-019-0508-5): an ensemble machine learning framework for the prediction of somatic mutations in cancer
+- [ ] [GARFIELD-NGS](https://academic.oup.com/bioinformatics/article-abstract/34/17/3038/4970515?redirectedFrom=fulltext): Genomic vARiants FIltering by dEep Learning moDels in NGS
 
 
 # Reviews
